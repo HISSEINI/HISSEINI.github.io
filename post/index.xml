@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | HISSEINI-ML/DL Ingeneer</title>
+    <title>Posts | Hisseini</title>
     <link>https://HISSEINI.github.io/post/</link>
       <atom:link href="https://HISSEINI.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
