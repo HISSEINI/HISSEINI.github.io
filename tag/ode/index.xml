@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ODE | Hisseini</title>
+    <link>https://HISSEINI.github.io/tag/ode/</link>
+      <atom:link href="https://HISSEINI.github.io/tag/ode/index.xml" rel="self" type="application/rss+xml" />
+    <description>ODE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://HISSEINI.github.io/media/icon_hu_9e0e2f9e78de995a.png</url>
+      <title>ODE</title>
+      <link>https://HISSEINI.github.io/tag/ode/</link>
+    </image>
+    
+    <item>
+      <title>Multistage Pseudo-Spectral Method (Method of Collocations) for the Approximate Solution of an Ordinary Differential Equation of the First Order</title>
+      <link>https://HISSEINI.github.io/publication/pseudospectral-ode-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://HISSEINI.github.io/publication/pseudospectral-ode-2022/</guid>
+      <description>&lt;p&gt;Published in &lt;strong&gt;Discrete and Continuous Models and Applied Computational
+Science&lt;/strong&gt;, Vol. 30, No. 2, pp. 127–138, 2022.&lt;/p&gt;
+&lt;p&gt;Co-authored with K.P. Lovetskiy and D.S. Kulyabov (RUDN University).
+Supported by the RUDN University Strategic Academic Leadership Program.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
