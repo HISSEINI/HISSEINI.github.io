@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Hisseini</title>
+    <link>https://HISSEINI.github.io/tag/deep-learning/</link>
+      <atom:link href="https://HISSEINI.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2026 05:55:51 +0100</lastBuildDate>
+    <image>
+      <url>https://HISSEINI.github.io/media/icon_hu_9e0e2f9e78de995a.png</url>
+      <title>Deep Learning</title>
+      <link>https://HISSEINI.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Nlp Text Generation</title>
+      <link>https://HISSEINI.github.io/project/nlp-text-generation/</link>
+      <pubDate>Fri, 08 May 2026 05:55:51 +0100</pubDate>
+      <guid>https://HISSEINI.github.io/project/nlp-text-generation/</guid>
+      <description>&lt;p&gt;Character-level language model built with RNN/LSTM to predict
+the next character and generate Shakespeare-style text.
+Tools: TensorFlow, Keras, Python&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

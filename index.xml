@@ -33,6 +33,41 @@
     </item>
     
     <item>
+      <title>Classification</title>
+      <link>https://HISSEINI.github.io/project/classification/</link>
+      <pubDate>Fri, 08 May 2026 06:09:22 +0100</pubDate>
+      <guid>https://HISSEINI.github.io/project/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoencoder Vae</title>
+      <link>https://HISSEINI.github.io/project/autoencoder-vae/</link>
+      <pubDate>Fri, 08 May 2026 06:08:46 +0100</pubDate>
+      <guid>https://HISSEINI.github.io/project/autoencoder-vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tf Serving Deployment</title>
+      <link>https://HISSEINI.github.io/project/tf-serving-deployment/</link>
+      <pubDate>Fri, 08 May 2026 06:08:09 +0100</pubDate>
+      <guid>https://HISSEINI.github.io/project/tf-serving-deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nlp Text Generation</title>
+      <link>https://HISSEINI.github.io/project/nlp-text-generation/</link>
+      <pubDate>Fri, 08 May 2026 05:55:51 +0100</pubDate>
+      <guid>https://HISSEINI.github.io/project/nlp-text-generation/</guid>
+      <description>&lt;p&gt;Character-level language model built with RNN/LSTM to predict
+the next character and generate Shakespeare-style text.
+Tools: TensorFlow, Keras, Python&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multistage Pseudo-Spectral Method (Method of Collocations) for the Approximate Solution of an Ordinary Differential Equation of the First Order</title>
       <link>https://HISSEINI.github.io/publication/pseudospectral-ode-2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
@@ -42,14 +77,6 @@ Science&lt;/strong&gt;, Vol. 30, No. 2, pp. 127–138, 2022.&lt;/p&gt;
 &lt;p&gt;Co-authored with K.P. Lovetskiy and D.S. Kulyabov (RUDN University).
 Supported by the RUDN University Strategic Academic Leadership Program.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>MonProjetGroupe</title>
-      <link>https://HISSEINI.github.io/project/monprojetgroupe/</link>
-      <pubDate>Sun, 14 Nov 2021 13:52:25 +0300</pubDate>
-      <guid>https://HISSEINI.github.io/project/monprojetgroupe/</guid>
-      <description></description>
     </item>
     
     <item>

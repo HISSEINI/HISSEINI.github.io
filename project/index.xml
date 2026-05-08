@@ -5,7 +5,7 @@
     <link>https://HISSEINI.github.io/project/</link>
       <atom:link href="https://HISSEINI.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Nov 2021 13:52:25 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2026 06:09:22 +0100</lastBuildDate>
     <image>
       <url>https://HISSEINI.github.io/media/icon_hu_9e0e2f9e78de995a.png</url>
       <title>Projects</title>
@@ -13,11 +13,38 @@
     </image>
     
     <item>
-      <title>MonProjetGroupe</title>
-      <link>https://HISSEINI.github.io/project/monprojetgroupe/</link>
-      <pubDate>Sun, 14 Nov 2021 13:52:25 +0300</pubDate>
-      <guid>https://HISSEINI.github.io/project/monprojetgroupe/</guid>
+      <title>Classification</title>
+      <link>https://HISSEINI.github.io/project/classification/</link>
+      <pubDate>Fri, 08 May 2026 06:09:22 +0100</pubDate>
+      <guid>https://HISSEINI.github.io/project/classification/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Autoencoder Vae</title>
+      <link>https://HISSEINI.github.io/project/autoencoder-vae/</link>
+      <pubDate>Fri, 08 May 2026 06:08:46 +0100</pubDate>
+      <guid>https://HISSEINI.github.io/project/autoencoder-vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tf Serving Deployment</title>
+      <link>https://HISSEINI.github.io/project/tf-serving-deployment/</link>
+      <pubDate>Fri, 08 May 2026 06:08:09 +0100</pubDate>
+      <guid>https://HISSEINI.github.io/project/tf-serving-deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nlp Text Generation</title>
+      <link>https://HISSEINI.github.io/project/nlp-text-generation/</link>
+      <pubDate>Fri, 08 May 2026 05:55:51 +0100</pubDate>
+      <guid>https://HISSEINI.github.io/project/nlp-text-generation/</guid>
+      <description>&lt;p&gt;Character-level language model built with RNN/LSTM to predict
+the next character and generate Shakespeare-style text.
+Tools: TensorFlow, Keras, Python&lt;/p&gt;
+</description>
     </item>
     
     <item>
